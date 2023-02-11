@@ -1,0 +1,7 @@
+D:\REP\CSharp\CB\paybane.HomeWork.Matrix\bin\Debug\paybane.HomeWork.Matrix.exe.config
+D:\REP\CSharp\CB\paybane.HomeWork.Matrix\bin\Debug\paybane.HomeWork.Matrix.exe
+D:\REP\CSharp\CB\paybane.HomeWork.Matrix\bin\Debug\paybane.HomeWork.Matrix.pdb
+D:\REP\CSharp\CB\paybane.HomeWork.Matrix\obj\Debug\paybane.HomeWork.Matrix.csproj.AssemblyReference.cache
+D:\REP\CSharp\CB\paybane.HomeWork.Matrix\obj\Debug\paybane.HomeWork.Matrix.csproj.CoreCompileInputs.cache
+D:\REP\CSharp\CB\paybane.HomeWork.Matrix\obj\Debug\paybane.HomeWork.Matrix.exe
+D:\REP\CSharp\CB\paybane.HomeWork.Matrix\obj\Debug\paybane.HomeWork.Matrix.pdb
