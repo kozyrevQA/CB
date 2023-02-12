@@ -1,0 +1,7 @@
+D:\REP\CSharp\CB\paybane.ConditionalOperators\bin\Debug\paybane.ConditionalOperators.exe.config
+D:\REP\CSharp\CB\paybane.ConditionalOperators\bin\Debug\paybane.ConditionalOperators.exe
+D:\REP\CSharp\CB\paybane.ConditionalOperators\bin\Debug\paybane.ConditionalOperators.pdb
+D:\REP\CSharp\CB\paybane.ConditionalOperators\obj\Debug\paybane.ConditionalOperators.csproj.AssemblyReference.cache
+D:\REP\CSharp\CB\paybane.ConditionalOperators\obj\Debug\paybane.ConditionalOperators.csproj.CoreCompileInputs.cache
+D:\REP\CSharp\CB\paybane.ConditionalOperators\obj\Debug\paybane.ConditionalOperators.exe
+D:\REP\CSharp\CB\paybane.ConditionalOperators\obj\Debug\paybane.ConditionalOperators.pdb
