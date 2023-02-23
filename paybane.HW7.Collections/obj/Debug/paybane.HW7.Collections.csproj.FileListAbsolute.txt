@@ -1,0 +1,7 @@
+D:\REP\CSharp\CB\paybane.HW7.Collections\bin\Debug\paybane.HW7.Collections.exe.config
+D:\REP\CSharp\CB\paybane.HW7.Collections\bin\Debug\paybane.HW7.Collections.exe
+D:\REP\CSharp\CB\paybane.HW7.Collections\bin\Debug\paybane.HW7.Collections.pdb
+D:\REP\CSharp\CB\paybane.HW7.Collections\obj\Debug\paybane.HW7.Collections.csproj.CoreCompileInputs.cache
+D:\REP\CSharp\CB\paybane.HW7.Collections\obj\Debug\paybane.HW7.Collections.exe
+D:\REP\CSharp\CB\paybane.HW7.Collections\obj\Debug\paybane.HW7.Collections.pdb
+D:\REP\CSharp\CB\paybane.HW7.Collections\obj\Debug\paybane.HW7.Collections.csproj.AssemblyReference.cache
